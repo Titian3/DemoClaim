@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Im1bKuQmmsBGegWpYCxwmEocUbyGXntoQO6TNjlljOs=",
+  "Source": "claim-demo-api",
+  "BasePath": "_content/claim-demo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
